@@ -1,0 +1,4 @@
+LIBRARY ExplicitServer.dll
+EXPORTS
+	SumOfTwoIntegers @500
+	SubtractionOfTwoIntegers @501
